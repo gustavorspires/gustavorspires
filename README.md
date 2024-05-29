@@ -8,4 +8,3 @@
   <img width="120" src="https://img.icons8.com/fluency/120/c-programming.png" alt="c-programming"/>
   <img width="120" height="120" src="https://img.icons8.com/color/120/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 </table>
-![snake gif](https://github.com/gustavorspires/gustavorspires/blob/output/github-contribution-grid-snake.gif)

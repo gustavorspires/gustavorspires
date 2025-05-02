@@ -18,4 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gustavorspires&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/gustavorspires/gustavorspires/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
